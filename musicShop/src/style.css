@@ -1,0 +1,30 @@
+
+h1{
+    color: red;
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+}
+
+.content{
+    text-align: center;
+}
+
+.content h2{
+    color: blueviolet;
+}
+
+p{
+    color: black;
+}
+
+/* about */
+.container h2{
+    text-align: center;
+    color: brown;
+}
+.container h3{
+    color: yellowgreen;
+}
